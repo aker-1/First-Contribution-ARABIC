@@ -2310,5 +2310,35 @@
         </td>
     </tr>
     <!--// Mohammad Amin Taha //-->
-
+    <!-- // Aker //-->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/Aker-1">
+                <img src="https://avatars.githubusercontent.com/u/202319508?v=4" width="50">
+                <br>
+                <h2>Aker</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/Aker-1">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                    <!--// TELEGRAM //-->
+                    <td>
+                        <a href="https://t.me/aker_1">
+                            <img src="https://cdn-icons-png.freepik.com/256/3536/3536661.png?ga=GA1.1.2084801712.1740466687&semt=ais_hybrid" width="30">
+                        </a>
+                    </td>
+                    <!--// TELEGRAM //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!-- // Aker //-->
 </table>
