@@ -2315,9 +2315,9 @@
         <td align="center" width="600">
         &nbsp;&nbsp
             <a href="https://github.com/Aker-1">
-                <img src="https://avatars.githubusercontent.com/u/202319508?v=4" width="50">
+                <img src="https://avatars.githubusercontent.com/u/202319508?v=4" width="50" style="border-radius:50%">
                 <br>
-                <h2>Aker</h2>
+                <h1 style="color:black">Aker</h1>
             </a>
             <br>            
             <table>
@@ -2325,7 +2325,7 @@
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/Aker-1">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png" width="30" style="border-radius:3px">
                         </a>
                     </td>
                     <!--// GITHUB //-->
